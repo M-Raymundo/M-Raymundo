@@ -1,8 +1,8 @@
-## Hey you, welcome to my profile. I hope you find something you need!
+## Seja bem-vindo ao meu perfil! Espero que encontre o que você procura.
 ---
 
-- 📚 Studying - Systems Analysis and Development
-- ☕ Just coffee and line codes here
+- 📚 Estudando - Analise e Desenvolvimento de Sistemas
+- ☕ Apenas café e linhas de código por aqui :)
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
@@ -17,10 +17,10 @@
 
 ## Hobbies
 
-- 🏓 Tabble Tennis
-- 🎵 Listen to music
-- ⏳ Magic cube
-- 🎮 Play some games
+- 🏓 Tênis de Mesa
+- 🎵 Ouvir música
+- ⏳ Cubo mágico
+- 🎮 Jogos
 ---
 
 <div style="display: flex; gap: 10px;">
