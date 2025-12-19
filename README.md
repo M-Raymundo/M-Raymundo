@@ -1,6 +1,5 @@
 ## Hey you, welcome to my profile. I hope you find something you need!
 ---
-My friends call me Mat, but also known as "while".
 
 - 📚 Studying - Systems Analysis and Development
 - ☕ Just coffee and line codes here
