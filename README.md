@@ -27,7 +27,7 @@
   <a href="https://discordapp.com/users/631285032706899998" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/matheus-raymundo-3b9955351/" target="_blank">
+  <a href="https://www.linkedin.com/in/m-raymundo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
